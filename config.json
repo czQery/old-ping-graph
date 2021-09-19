@@ -1,0 +1,8 @@
+{
+  "api_name":"ping",
+  "port":8080,
+  "token":"yourtoken",
+  "address":"google.com",
+  "maxping":200,
+  "graph_repository":"Graph/"
+}
